@@ -2,6 +2,10 @@
 // constructor is a same name as a class name 
 // we can create a multiple constructor but they have a different parameters every constructor 
 
+// Parameterize constructor(including all variable in the class) and default constructor are mandatory for each entity class 
+
+// If we want set the only one variable value then use the default constructor and which we want set the value use setter method 
+
 
 
 // Date
